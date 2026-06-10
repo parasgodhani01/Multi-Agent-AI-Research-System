@@ -1,6 +1,6 @@
 # ResearchMind · AI-Powered Multi-Agent Research System
 
-A sophisticated AI-driven research system that automates the entire research workflow. ResearchMind orchestrates four specialized agents working collaboratively to gather information, synthesize findings, write polished reports, and provide critical feedback — all from a single research topic.
+A sophisticated AI-driven research system that automates the entire research workflow. ResearchMind orchestrates four specialized agents working collaboratively to gather information, synthesize findings, write polished reports, and provide critical feedback all from a single research topic.
 
 ## Overview
 
