@@ -19,7 +19,6 @@ The system is built on LangChain for agent orchestration, powered by OpenAI's GP
 - **Real-Time Pipeline Visualization**: Watch each agent work with status indicators (waiting, running, done)
 - **Professional Report Generation**: Structured reports with introduction, key findings, conclusion, and sources
 - **Critical Evaluation**: AI critic provides scoring (X/10) with strengths and areas for improvement
-- **Dark Mode UI**: Modern, aesthetically designed interface with custom fonts and gradients
 - **Downloadable Reports**: Export generated research reports as Markdown files
 - **Web Scraping**: Extracts clean, readable content from multiple sources
 - **Recent Information**: Powered by Tavily API for current, up-to-date research
